@@ -6,5 +6,5 @@ I'm also currently working on a couple of projects for my portfolio, including m
 
 ### Hot Links
 
-- 🐥 https://donnotc.netlify.app/
+- 🔗 https://donnotc.netlify.app/
 - 👜 https://www.linkedin.com/in/donnovan-tc/
