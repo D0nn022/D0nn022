@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+I'm a web developer from Mexico, who loves UX/UI design, and currently working on my portfolio. 
+I mainly develop in HTML, CSS, in 2022 I fell in love with Javascript, React, Tailwind. I'm always learning. 
+I'm also currently working on a couple of projects for my portfolio, including my own website. I'm also contributing to a school project, which is a site to adopt animals in Mexico City. :heartbeat:
 
 <!--
 **D0nn022/D0nn022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
