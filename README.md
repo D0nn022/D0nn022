@@ -1,6 +1,6 @@
-### Welcome to my profile 👋
+### Bienvenido a mi perfil 👋.
 
-I'm a web developer from Mexico, who loves UX/UI design, and I currently work as a freelancer. I mainly develop in HTML, in 2022 I fell in love with CSS & Javascript. I'm always learning. I'm currently working on a couple of projects for my portfolio, including my own website. I'm also collaborating on a school project, which is a site to adopt animals in Mexico City. 💓
+Soy un desarrollador web de México, amante del diseño UX/UI, actualmente trabajo como freelance. Principalmente desarrollo en HTML, en 2022 me enamoré de CSS & Javascript. Siempre estoy aprendiendo. Actualmente estoy trabajando en un par de proyectos para mi portafolio, incluyendo mi propio sitio web. También estoy colaborando en un proyecto escolar, que es un sitio para adoptar animales en la Ciudad de México. 💓
 
 ### Hot Links
 
